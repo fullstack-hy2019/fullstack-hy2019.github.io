@@ -1,1 +1,0 @@
-{"errors":[{"message":"Variable \"$part\" of required type \"Int!\" was not provided.","locations":[{"line":2,"column":3}]}],"pageContext":{}}
