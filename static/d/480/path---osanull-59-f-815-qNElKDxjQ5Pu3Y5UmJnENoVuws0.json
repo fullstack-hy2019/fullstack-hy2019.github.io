@@ -1,1 +1,0 @@
-{"errors":[{"message":"Variable \"$part\" got invalid value null; Expected non-nullable type Int! not to be null.","locations":[{"line":2,"column":3}]}],"pageContext":{"part":null,"letter":null}}
