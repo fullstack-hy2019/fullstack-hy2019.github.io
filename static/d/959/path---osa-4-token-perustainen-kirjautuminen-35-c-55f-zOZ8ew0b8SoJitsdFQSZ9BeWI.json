@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot destructure property `feature` of 'undefined' or 'null'.","locations":[{"line":6,"column":5}],"path":["markdownRemark","html"]}],"data":{"markdownRemark":{"html":null,"frontmatter":{"mainImage":{"publicURL":"/static/part-4-5c308a7f2485495a6c24db46e9910185.svg"},"part":4,"letter":"d"}}},"pageContext":{"part":4,"letter":"d"}}
