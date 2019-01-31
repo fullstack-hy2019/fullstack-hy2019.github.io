@@ -244,7 +244,7 @@ _ReactDOM.render_-metodin toistuva kutsuminen ei kuitenkaan ole suositeltu tapa 
 
 Tähänastiset komponenttimme ovat olleet siinä mielessä yksinkertaisia, että niillä ei ole ollut ollenkaan omaa tilaa, joka voisi muuttua komponentin elinaikana.
 
-Määritellään nyt sovelluksemme komonentille <i>App</i> tila Reactin [state hookin](https://reactjs.org/docs/hooks-state.html) avulla.
+Määritellään nyt sovelluksemme komponentille <i>App</i> tila Reactin [state hookin](https://reactjs.org/docs/hooks-state.html) avulla.
 
 Muutetaan ohjelmaa seuraavasti
 
@@ -353,18 +353,6 @@ const App = (props) => {
 on konsolista helppo seurata metodin _render_ kutsuja:
 
 ![](../images/1/4a.png)
-
-### Kun React ei toimi...
-
-Käyttäessäsi tilan tuovaa hookia <i>useState</i>, saatat törmätä seuraavaan virheilmoitukseen:
-
-![](../images/1/fail.png)
-
-Syynä tälle on se, että <i>et ole asentanut</i> riittävän uutta Reactia kuten [osan 1 alussa](/osa1/reactin_alkeet) neuvottiin.
-
-``` 
-rm -rf node_modules/ && npm i
-```
 
 ### Tapahtumankäsittely
 
