@@ -254,7 +254,7 @@ const IndexPage = () => (
 
             <PartBanner />
 
-            {false && (
+            {(
               <Element className="container spacing--after" flex>
                 <Element flex spaceBetween className="col-8 push-right-1">
                   <ContentLiftup
