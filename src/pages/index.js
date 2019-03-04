@@ -254,7 +254,7 @@ const IndexPage = () => (
 
             <PartBanner />
 
-            <CompaniesBanner />
+            {false && <CompaniesBanner />}
 
             <Element
               flex
