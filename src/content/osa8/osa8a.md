@@ -1133,8 +1133,7 @@ palauttaa
       {
         "name": "Reijo Mäki",
         "born": null,
-        "bookCount": 1,
-        "id": "14ffaf81-345b-11e9-92fb-61a5d24ee250"
+        "bookCount": 1
       }
     ]
   }
