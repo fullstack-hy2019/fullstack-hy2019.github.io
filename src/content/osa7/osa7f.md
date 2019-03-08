@@ -154,6 +154,6 @@ Laajenna vielä E2E-testejäsi. Voit merkitä tehtävän, jos käytät laajentam
 
 #### 7.20 Kurssipalaute
 
-Anna kurssille palautetta weboodissa.
+Anna kurssille palautetta weboodissa. Kurssipalautteiden antaminen löytyy kirjautumalla [weboodiin](http://weboodi.helsinki.fi/) ja valitsemalla *TYÖKALUT* ja *Omat palautteet*.
 
 </div>

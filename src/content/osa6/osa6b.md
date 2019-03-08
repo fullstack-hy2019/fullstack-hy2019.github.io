@@ -787,7 +787,7 @@ Connect on erittäin kätevä työkalu, mutta abstraktiutensa takia se voi aluks
 Määrittelimme siis connectin komponentille <i>NewNote</i> antamat actioneja dispatchaavan funktion seuraavasti:
 
 ```js
-class NewNote extends React.Component {
+const NewNote = () => {
   // ...
 }
 
