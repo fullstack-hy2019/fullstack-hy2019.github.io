@@ -1,0 +1,19 @@
+@import '../common.scss';
+
+.deprecate {
+  position: fixed;
+  bottom: 0;
+  z-index: 100;
+  left: 0;
+  right: 0;
+  padding: 2rem;
+  margin: 1rem;
+  border: 2px solid $black;
+  border-radius: 5px;
+  background: pink;
+
+  a {
+    font-weight: bold;
+    margin-left: 0.5rem;
+  }
+}
